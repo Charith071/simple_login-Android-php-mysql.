@@ -1,0 +1,5 @@
+1	volley2 is a androide file ,it can be open using androide stuido..
+2	andi is a server file...copy and pate it into your server public directory...
+3 	copy the path to loging.php..
+4	paste it into volly2 maain activity url;
+5   databse will create auto ,when u run this application.. 
